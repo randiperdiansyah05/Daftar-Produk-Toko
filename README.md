@@ -53,9 +53,11 @@ Halaman yang menampilkan informasi lengkap dari produk yang dipilih, termasuk ga
 A. Halaman Tambah Produk
 Menampilkan formulir untuk memasukkan data produk baru.
 <img width="716" height="509" alt="Cuplikan layar 2026-11-09 202812" src="https://github.com/user-attachments/assets/225b201b-4fbd-459d-a837-4cc68c91954e" />
+
 B. Halaman Daftar Produk
 Menampilkan data produk yang telah berhasil ditambahkan ke dalam tabel.
 <img width="686" height="509" alt="Cuplikan layar 2026-11-09 203024" src="https://github.com/user-attachments/assets/ccd3f616-0b9f-4229-8d08-78bb6adbb366" />
+
 C. Halaman Detail Produk
 Menampilkan informasi detail berdasarkan produk yang dipilih oleh pengguna.
 <img width="677" height="507" alt="Cuplikan layar 2026-11-09 203102" src="https://github.com/user-attachments/assets/1377b886-1fbd-4bfc-812f-95c0c4bfba87" />
