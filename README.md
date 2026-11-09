@@ -50,6 +50,7 @@ Scene 3 - Detail Produk
 Halaman yang menampilkan informasi lengkap dari produk yang dipilih, termasuk gambar apabila tersedia.
 
 6. Dokumentasi Screenshot
+
 A. Halaman Tambah Produk
 Menampilkan formulir untuk memasukkan data produk baru.
 <img width="716" height="509" alt="Cuplikan layar 2026-11-09 202812" src="https://github.com/user-attachments/assets/225b201b-4fbd-459d-a837-4cc68c91954e" />
